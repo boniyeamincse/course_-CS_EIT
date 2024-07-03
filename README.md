@@ -50,21 +50,21 @@ Participants should have:
 20. # Cyber Security Training Course Outline
 
 ## Course Outline
-###✅ Module 01: Introduction
+### ✅ Module 01: Introduction
 - 🎯 Orientation Class
 - 🎯 Introduction to the course objectives and structure
 - 🎯 Overview of becoming an ethical hacker
 - 🎯 Job Market International Field & Bangladesh
 - 🎯 How to make Brand yourself
 
-### Module 02: Notekeeping
+### ✅ Module 02: Notekeeping
 - 🎯 Effective Notekeeping
 - 🎯 Importance of Notekeeping
 - 🎯 Note tools Windows base or Linux 
 - 🎯 Lab 01
 - 🎯 Screenshot for Win & Linux
 
-### Module 03: Build Hacking Lab
+###  ✅ Module 03: Build Hacking Lab
 - 🎯 Lab Design and Required Software 
 - 🎯 Lab Design For Courses
 - 🎯 Lab Design and Required Hardware Software 
@@ -80,7 +80,7 @@ Participants should have:
   - 🎯 Setup VirtualBox in VMware
   - 🎯 Setup VirtualBox in VM ESXi
 
-### Module 04: Operating System
+### ✅ Module 04: Operating System
 - 🎯 What is OS?
 - 🎯 What is Kernel, shell 
 - 🎯 How it works?
@@ -90,7 +90,7 @@ Participants should have:
 - 🎯 Setup Putty And Winscp 
 - 🎯 Ssh configuration for the client machine 
 
-### Module 05: Basic Networking
+###  ✅ Module 05: Basic Networking
 - 🎯 Overview of Networking
 - 🎯 Types of Networks
 - 🎯 Network Devices
