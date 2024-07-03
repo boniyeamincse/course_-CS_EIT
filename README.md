@@ -26,24 +26,23 @@ Participants should have:
 - Basic understanding of computer networks and operating systems.
 - Familiarity with enterprise IT environments.
 - Fundamental knowledge of information security concepts.
-## Index
-
-✅ Module 01: Introduction
-✅ Module 02: Notekeeping
-✅ Module 03: Build Hacking Lab
-✅ Module 04: Operating System
-✅ Module 05: Basic Networking
-✅ Module 06: Linux Operating System
-✅ Module 07: Windows Operating System
-✅ Module 08: The Ethical Hacker Methodology & Cyber Security Domain
-✅ Module 09: Information Gathering (Reconnaissance)
-✅ Module 10: Scanning & Enumeration
-✅ Module 11: Vulnerability Scanning with Nessus
-✅ Module 12: Exploitation Basics
-✅ Module 13: Post Exploitation
-✅ Module 14: Web Application Enumeration, Revisited
-✅ Module 15: Find & Exploit Common Web Vulnerabilities
-✅ Module 16: Working in a Real-Time Company Environment
-✅ Module 17: Job Application and Professional Conduct
-✅ Module 18: Discussion and Closing of the Session
-✅ Module 19: Exam
+## Course Outline
+1. ✅ Module 01: Introduction
+2. ✅ Module 02: Notekeeping
+3. ✅ Module 03: Build Hacking Lab
+4. ✅ Module 04: Operating System
+5. ✅ Module 05: Basic Networking
+6. ✅ Module 06: Linux Operating System
+7. ✅ Module 07: Windows Operating System
+8. ✅ Module 08: The Ethical Hacker Methodology & Cyber Security Domain
+9. ✅ Module 09: Information Gathering (Reconnaissance)
+10. ✅ Module 10: Scanning & Enumeration
+11. ✅ Module 11: Vulnerability Scanning with Nessus
+12. ✅ Module 12: Exploitation Basics
+13. ✅ Module 13: Post Exploitation
+14. ✅ Module 14: Web Application Enumeration, Revisited
+15. ✅ Module 15: Find & Exploit Common Web Vulnerabilities
+16. ✅ Module 16: Working in a Real-Time Company Environment
+17. ✅ Module 17: Job Application and Professional Conduct
+18. ✅ Module 18: Discussion and Closing of the Session
+19. ✅ Module 19: Exam
