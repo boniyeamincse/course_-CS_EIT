@@ -102,7 +102,7 @@ Participants should have:
 - 🎯 Network Tools Troubleshooting
 - 🎯 Lab: Tryhackme all networking lab 
 
-### Module 06: Linux Operating System
+### ✅ Module 06: Linux Operating System
 - 🎯 Introduction to Linux
 - 🎯 Basic Linux Commands and File System Navigation
 - 🎯 Linux Text Editors
@@ -114,7 +114,7 @@ Participants should have:
 - 🎯 Managing Network Security (Firewalld)
 - 🎯 Introduction to Shell Scripting
 
-### Module 07: Windows Operating System
+### ✅ Module 07: Windows Operating System
 - 🎯 Introduction to Windows Operating System
 - 🎯 File Management
 - 🎯 User and Security Management
@@ -122,14 +122,14 @@ Participants should have:
 - 🎯 Troubleshooting and Maintenance
 - 🎯 Lab: tryhackme Lab
 
-### Module 08: The Ethical Hacker Methodology & Cyber Security Domain
+### ✅ Module 08: The Ethical Hacker Methodology & Cyber Security Domain
 - 🎯 Understanding the ethical hacker methodology
 - 🎯 Introduction to Ethical Hacking
 - 🎯 Phases of Ethical Hacking
 - 🎯 Phases of Cyber Security 
 - 🎯 Comparing Both 
 
-### Module 09: Information Gathering (Reconnaissance)
+### ✅ Module 09: Information Gathering (Reconnaissance)
 - 🎯 Types: Active and Passive
 - 🎯 Objectives
 - 🎯 Website Reconnaissance
@@ -175,7 +175,7 @@ Participants should have:
   - 🎯 Scanning for SNMP
   - 🎯 Windows SNMP Enumeration Example
 
-### Module 10: Scanning & Enumeration
+### ✅ Module 10: Scanning & Enumeration
 - 🎯 Introduction to Scanning & Enumeration
 - 🎯 Network Scanning Techniques
 - 🎯 Tools for Network Scanning
@@ -195,7 +195,7 @@ Participants should have:
 - 🎯 Analyzing Nessus Scan Results
 - 🎯 Case Studies and Practical Exercise
 
-### Module 12: Exploitation Basics
+### ✅ Module 12: Exploitation Basics
 - 🎯 Reverse Shells vs Bind Shells
 - 🎯 Staged vs Non-Staged Payloads
 - 🎯 Gaining Root with Metasploit
@@ -203,7 +203,7 @@ Participants should have:
 - 🎯 Brute Force Attacks
 - 🎯 Credential Stuffing and Password Spraying
 
-### Module 13: Post Exploitation
+### ✅ Module 13: Post Exploitation
 - 🎯 Introduction to Post-Exploitation
 - 🎯 Backdoor Installation
 - 🎯 Privilege Escalation
@@ -213,26 +213,26 @@ Participants should have:
 - 🎯 Post Exploitation Scripting
 - 🎯 Analyzing and Reporting
 
-### Module 14: Web Application Enumeration, Revisited
+### ✅ Module 14: Web Application Enumeration, Revisited
 - 🎯 Comprehensive Overview of Enumeration Tools
 - 🎯 Advanced Techniques for Directory and File Discovery
 - 🎯 Identifying Subdomains and Virtual Hosts
 - 🎯 Analyzing HTTP Headers and Responses for Information Leakage
 
-### Module 15: Find & Exploit Common Web Vulnerabilities
+### ✅ Module 15: Find & Exploit Common Web Vulnerabilities
 - 🎯 Lab 1: Enumeration and Exploitation of Simple CMS (VulnHub - Simple CMS)
 - 🎯 Lab 2: SQL Injection and Database Compromise (VulnHub - Mr. Robot: 1)
 - 🎯 Lab 3: Cross-Site Scripting (XSS) Attacks (VulnHub - XSS: Beginner Level)
 - 🎯 Lab 4: File Upload Vulnerabilities (VulnHub - BodgeIt Store)
 - 🎯 Lab 5: Remote Code Execution (RCE) and Privilege Escalation (VulnHub - SkyTower: 1)
 
-### Module 16: Working in a Real-Time Company Environment
+### ✅ Module 16: Working in a Real-Time Company Environment
 - 🎯 Hands-on experience in a simulated company environment
 
-### Module 17: Job Application and Professional Conduct
+### ✅ Module 17: Job Application and Professional Conduct
 - 🎯 Guidelines and tips for job applications
 - 🎯 Professional conduct in the cybersecurity field
 
-### Module 18: Discussion and Closing of the Session
+### ✅ Module 18: Discussion and Closing of the Session
 - 🎯 Open discussion
 - 🎯 Summary and closing remarks
